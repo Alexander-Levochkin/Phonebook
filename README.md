@@ -4,4 +4,4 @@ It’s based on implementing different Searching & Sorting algorithms, measuring
 
 Uses: Strategy pattern to realize different varieties of Searching & Sorting algorithms.
 
-*This project was originally developed for [JetBrains Academy]([url](https://www.jetbrains.com/academy/))
+*This project was originally developed for [JetBrains Academy](https://www.jetbrains.com/academy/)
